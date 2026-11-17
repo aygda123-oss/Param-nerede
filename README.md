@@ -1,2 +1,0 @@
-# Param-nerede
-Param nerede
